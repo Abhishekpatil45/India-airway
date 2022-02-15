@@ -12,7 +12,7 @@
 	<body>
 		<img class="logo" src="images/irctc.jpg"/> 
 		<h1 id="title">
-			Air india
+			Air india2
 		</h1>
 		<div>
 			<ul>
